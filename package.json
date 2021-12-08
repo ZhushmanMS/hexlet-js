@@ -16,5 +16,8 @@
     "url": "https://github.com/ZhushmanMS/hexlet-js/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/ZhushmanMS/hexlet-js#readme"
+  "homepage": "https://github.com/ZhushmanMS/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
